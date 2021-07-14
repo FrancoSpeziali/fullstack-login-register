@@ -59,7 +59,7 @@ Using either the MongoDB Atlas Dashboard, or the MongoDB Compass desktop client:
 
 Analyse the data in the now updated collection **users**
 
-1. In the `/models/user` file, finish writing the schema based on the data present in the **users** collection.
+1. In the `/models/User.js` file, finish writing the schema based on the data present in the **users** collection.
    
 The rest has already been done for you!
 
