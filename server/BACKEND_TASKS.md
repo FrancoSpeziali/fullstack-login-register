@@ -48,7 +48,7 @@ Using either the MongoDB Atlas Dashboard, or the MongoDB Compass desktop client:
 
 2. Copy and paste the text in the file `.env.example`, into your `.env` file
 
-3. For the key `DB_NAME`, refer to the **database name** of your **chosen dataset**
+3. For the key `DB_NAME`, refer to the database you created in Task 1 **fullstack-reset-password**
 
 4. For the other keys, fill in the details as provided to you by your MongoDB service.
     - DB_HOST=
